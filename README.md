@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raphael</h1>
-- 👨‍💻 All of my projects are available at [furini.dev](furini.dev)
+- 👨‍💻 All of my projects are available at [furini.dev](https://furini.dev)
 
 - 📫 How to reach me: **raphael.furini@hotmail.com**
 
