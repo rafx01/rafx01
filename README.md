@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raphael</h1>
-- 👨‍💻 All of my projects are available at https://furini.dev
-
-- 📫 How to reach me: **raphael.furini@hotmail.com**
+ 👨‍💻 All of my projects are available at https://furini.dev
+ 
+ 📫 How to reach me: **raphael.furini@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
