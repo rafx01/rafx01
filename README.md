@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raphael</h1>
+<h1 align="center">Hi 👋👋, I'm Raphael</h1>
  👨‍💻 All of my projects are available at https://furini.dev
  
  📫 How to reach me: **raphael.furini@hotmail.com**
